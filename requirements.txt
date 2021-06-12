@@ -1,0 +1,5 @@
+tensorflow-cpu
+streamlit
+numpy
+matplotlib
+requests
